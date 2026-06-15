@@ -63,11 +63,11 @@ For a detailed breakdown of our deliverables, funding sources, and project roadm
 
 ## 💡 Current Focus Areas
 
-- Wearable Technology Projects
-- Fashion Design & Textiles Integration
 - Industrial Innovation
 - Environmental Solutions
 - Agricultural Technology
+- Fashion Design & Textiles Integration
+- Wearable Technology Projects
 
 ## 📞 Get in Touch
 
