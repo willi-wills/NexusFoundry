@@ -116,10 +116,24 @@ The meaning of Nexus Foundry
 - Fashion Design & Textiles
 -   1. Design and build a 2D tie-and-dye design printer
 -   2. Design and build a cloth design software: A software that allows the designer to create a 3D Model of the client, a webstore where designers can post their cloth designs CADs;
-- 
 
 ## Notes
 1. Bring in fellow students, lecturers, and other professionals to teach concepts
+
+## Team
+4. Judith Adom A Commey
+5. Welson Venunye
+6. Alvin Lawson Amenyedzi
+
+## Team Advisors
+1. Dr F.F Nutsugah
+2. Gabriel Gasper
+3. Dr Faith
+
+## Business to create
+1. Agribusiness
+2. Games
+3. Self-Cleaning
 
 ## Business Model
 To establish a lab/clab on campus where students from any faculty can join and create an impact in society.
