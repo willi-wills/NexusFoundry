@@ -4,7 +4,7 @@
 
 The meaning of Nexus Foundry
 
-## Difficulty Levels
+## Project Difficulty Levels
 
 - Beginner
 - Intermediate
@@ -12,10 +12,10 @@ The meaning of Nexus Foundry
 
 ## Deliverables
 
-1. Business creation
-2. Employment opportunities
-3. Hands-on opportunities
-4. Real-world experience
+1. Create four startup businesses
+2. Create employment opportunities for the members and the university students
+3. Provide hands-on opportunities
+4. Undertake Real-world projects
 5. Product development skills
 6. Presentation skills
 7. Real Portfolios
@@ -44,7 +44,7 @@ The meaning of Nexus Foundry
 - Amatrol Lab
 - Mechanical Lab
 - Civil Engineering Lab
-- Wood Working Lab
+- Woodworking Lab
 - Welding Lab
 - Star-Center
 
@@ -111,7 +111,7 @@ The meaning of Nexus Foundry
 - Environmental Science
 
 ## Example Projects
-
+These are examples of projects that demonstrate our multidisciplinary idea.
 - Wearable Project
 - Fashion Design & Textiles
 -   1. Design and build a 2D tie-and-dye design printer
@@ -126,17 +126,23 @@ The meaning of Nexus Foundry
 6. Alvin Lawson Amenyedzi
 
 ## Team Advisors
-1. Dr F.F Nutsugah
-2. Gabriel Gasper
+1. Dr Francis Fonyee Nutsugah
+2. Mr Gabriel Gasper
 3. Dr Faith
 
-## Business to create
-1. Agribusiness
-2. Games
-3. Self-Cleaning
+## Businesses to create
+These are some project/startups we wish to undertake to establish the core practicality of the Lab
+1. Agribusiness Chain value
+2. PC Games
+3. Self-Cleaning Washroom
+
+
+## Core Functions of the club
+1. To establish a lab/clab on campus where students from any faculty can join and create an impact in society.
+2. Train students in a particular discipline (Circuit Design, Software Development, Product Design, Research, Feasibility Analysis, Business plan, etc)
+3. Provide the members of the club with the basic resources like internet access, a co-workspace, tools, and equipments.
 
 ## Business Model
-To establish a lab/clab on campus where students from any faculty can join and create an impact in society.
-Utilize the student resource for projects or businesses we want to create.
-We will use existing facilities and resources on campus at our disposal.
-Eg: Use the computers at the Amatrol Lab if the participants have no access to personal computers when permission is given.
+1. To use existing facilities and resources on campus at our disposal.
+   Eg: Use the computers at the Amatrol Lab if the participants have no access to personal computers when permission is given.
+2. Utilize the resources of the club for projects or businesses we want to create.
