@@ -48,7 +48,7 @@ The meaning of Nexus Foundry
 - Welding Lab
 - Star-Center
 
-### Off Campus
+### Off-Campus
 - Field trips
 
 ## Software Packages
@@ -74,12 +74,13 @@ The meaning of Nexus Foundry
 - Axl8
 - Plan Ghana
 
-## Resources
+## Vital resources needed for the club startup
 
-- A venue
-- Chairs and tables
-- Internet
+- A venue for the club activities
+- Chairs, tables, Whiteboards
+- Internet access
 - Software packages
+- Tools and equipment for building the products
 
 
 ## HTU Faculties
@@ -112,20 +113,38 @@ The meaning of Nexus Foundry
 
 ## Example Projects
 These are examples of projects that demonstrate our multidisciplinary idea.
-- Wearable Project
 - Fashion Design & Textiles
 -   1. Design and build a 2D tie-and-dye design printer
+       i. The departments which would be involved in this project. Eg: Fashion Design & Textiles
 -   2. Design and build a cloth design software: A software that allows the designer to create a 3D Model of the client, a webstore where designers can post their cloth designs CADs;
+       1. The departments which would be involved in this project. Eg: Fashion Design & Textiles
+Give four other example projects and departments which would be needed
 
-## Notes
-1. Bring in fellow students, lecturers, and other professionals to teach concepts
+## Tracks
+1. Design & Creative:
+   1. UI/UX Designs,
+   3. Technical design: CAD software, etc
+2. Software Development: Apps and programming
+3. Hardware Development:
+   1. Electronics
+   2. Embedded systems
+4. Research
+   1. Technical Documentation
+5. Core Analytics
+   1. Costing and Estimation
+   2. Business Proposal/Strategy
+   3. Feasibility Analysis
+
+## Founders
+1. Alvin Lawson Amenyedzi
+2. Welson Venunye
 
 ## Team
-4. Judith Adom A Commey
-5. Welson Venunye
-6. Alvin Lawson Amenyedzi
+1. Alvin Lawson Amenyedzi
+2. Wilson Venunye
+3. Judith Adom A Commey
 
-## Team Advisors
+## Advisory Team
 1. Dr Francis Fonyee Nutsugah
 2. Mr Gabriel Gasper
 3. Dr Faith
@@ -136,11 +155,12 @@ These are some project/startups we wish to undertake to establish the core pract
 2. PC Games
 3. Self-Cleaning Washroom
 
-
 ## Core Functions of the club
-1. To establish a lab/clab on campus where students from any faculty can join and create an impact in society.
-2. Train students in a particular discipline (Circuit Design, Software Development, Product Design, Research, Feasibility Analysis, Business plan, etc)
-3. Provide the members of the club with the basic resources like internet access, a co-workspace, tools, and equipments.
+1. To establish a lab/clab on campus where students from any faculty can join, solve engineering problems and create an impact in society.
+2. Give the students the right environment to learn a particular discipline (Circuit Design, Software Development, Product Design, Research, Feasibility Analysis, Business plan, etc)
+3. Provide the members of the club with the basic resources like internet access, a co-workspace, tools, and equipment.
+4. Give students the necessary tools and equipment to design, fund and build vital products for the community.
+1. Bring in fellow students, lecturers, and other professionals to teach concepts
 
 ## Business Model
 1. To use existing facilities and resources on campus at our disposal.
