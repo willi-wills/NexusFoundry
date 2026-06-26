@@ -42,6 +42,16 @@ To systematically scale student capabilities, activities are categorized into th
 - Intermediate (Tier 2): Involves multi-system integration, UI/UX design, and functional hardware-software synchronization.
 - Advanced (Tier 3): Full-scale product development, system optimization, business modeling, and market deployment.
 
+### Three Paradiam System (Club Structure)
+1. Learning Sessions:
+   1. Students are thought base on the programme they are offering.
+   2. Club members are thought industry techniques and practices
+3. Practicals Sessions
+   i. Club members use their skills in the creation of a product or solve a problem.
+4. Real World Sessions (Startup Creation)
+   a. This is where club members work on business value projects (These are actual startup projects).
+   b. They learn the importance of team collaboration with other club members from other disciplines.
+
 ### Specialized Development Tracks
 Members align with specific specialization tracks to build deep technical and commercial expertise while working on multidisciplinary projects:
 
@@ -75,15 +85,16 @@ Members align with specific specialization tracks to build deep technical and co
 ### Lab Funding Architecture
 
 #### Primary Funding
-- Member Contributions: Internal seed dues and membership subscriptions.
-- Hackathons & Competitions: Prize capital secured from local and international innovation grants.
+- **Founders Contributions**: 
+- **Member Contributions**: Internal seed dues and membership subscriptions.
+- **Hackathons & Competitions**: Prize capital secured from local and international innovation grants.
 
 #### Secondary Funding
-- Strategic Partnerships: Corporate sponsorships and industrial collaborations.
-- Equity & Royalty Shares: Financial returns generated from equity held in successful startup spin-offs.
-- Research & Development Grants: Institutional and venture-backed innovation grants.
+- **Strategic Partnerships**: Corporate sponsorships and industrial collaborations.
+- **Equity & Royalty Shares**: Financial returns generated from equity held in successful startup spin-offs.
+- **Research & Development Grants**: Institutional and venture-backed innovation grants.
 
-### Essential Startup Resources Needed
+### Essential Club Resources Needed
 - Dedicated physical workspace/innovation hub on campus.
 - Collaborative furniture (ergonomic tables, chairs, interactive whiteboards).
 - High-speed, reliable internet infrastructure.
@@ -106,12 +117,19 @@ The Nexus Foundry intentionally bridges multiple faculties to drive diverse proj
 - Faculty of Applied Social Sciences
 - School of Graduate Studies (SGS)
 
+**Get the Club Approved (Phase 1)**
+-Convince the faculty heads
+-Get the University to approve the club
+
 **Pilot Departments (Phase 1)**
 - Electrical / Electronic Engineering
 - Computer Science
 - Mechanical Engineering
 - Mathematics & Statistics
 - Accounting and Finance
+
+**Recrut Students To Join The Club**
+
 
 **Expansion Departments (Phase 2)**
 - Marketing
@@ -125,7 +143,7 @@ The Nexus Foundry intentionally bridges multiple faculties to drive diverse proj
 ### Synergistic Campus Ecosystem
 - Existing Club Alliances: Axl8, Plan Ghana
 - On-Campus Fabrication Facilities: FAB Lab, Amatrol Lab, Mechanical Lab, Civil Engineering Lab, Woodworking Lab, Welding Lab, Star-Center.
-- Off-Campus Operations: Field trips, industrial attachments, and site visitations.
+- Off-Campus Operations: Field trips, and site visitations.
 
 ### Technology Stack & Software Suites
 - Engineering & CAD: Matlab, Solidworks, Fusion 360, Autocad, Revit
@@ -142,27 +160,50 @@ The following concepts demonstrate how the Foundry breaks down departmental silo
 
 ### Concept 1: 2D Tie-and-Dye Textile Printer
 - Project Scope: Designing and building an automated, CNC-style 2D printer tailored to apply wax or dye directly onto fabrics using custom vector paths.
-- Collaborating Departments: Fashion Design & Textiles (Aesthetics & Textile Chemistry), Mechanical Engineering (Gantry & Chassis Design), Electrical Engineering (Stepper Motor Control & Automation), Computer Science (G-code Generation UI).
+- Collaborating Departments:
+     1. Fashion Design & Textiles (Aesthetics & Textile Chemistry),
+     2. Mechanical Engineering (Gantry & Chassis Design),
+     3. Electrical Engineering (Stepper Motor Control & Automation),
+     4. Computer Science (G-code Generation UI).
 
 ### Concept 2: 3D Fashion CAD Ecosystem & Marketplace
 - Project Scope: Developing a specialized software suite that creates 3D body-map models of clients, paired with a web-based marketplace for designers to showcase and sell parameterized CAD garment files.
-- Collaborating Departments: Fashion Design & Textiles (Pattern Drafting & Garment Fit), Computer Science (3D Rendering Engine & Web Development), Marketing (E-commerce Growth Strategy).
+- Collaborating Departments:
+     1. Fashion Design & Textiles (Pattern Drafting & Garment Fit),
+     2. Computer Science (3D Rendering Engine & Web Development),
+     3. Marketing (E-commerce Growth Strategy).
 
 ### Concept 3: Automated IoT Hydroponic Smart Farm
 - Project Scope: An automated vertical farming system that regulates nutrient delivery, pH, and lighting via an array of sensors, designed to optimize urban crop yields.
-- Collaborating Departments: Agricultural Sciences and Technology (Crop Nutrition & Agronomy), Electrical/Electronic Engineering (Sensor Integration & Embedded Systems), Computer Science (Data Analytics Dashboard & Cloud Storage), Logistics & Supply Chain Management (Distribution Optimization).
+- Collaborating Departments:
+     1. Agricultural Sciences and Technology (Crop Nutrition & Agronomy),
+     2. Electrical/Electronic Engineering (Sensor Integration & Embedded Systems),
+     3. Computer Science (Data Analytics Dashboard & Cloud Storage),
+     4. Logistics & Supply Chain Management (Distribution Optimization).
 
 ### Concept 4: Fleet Management & EV Charging Infrastructure Planner
 - Project Scope: A geospatial software tool and modular power-sharing hardware node designed to manage local electric delivery fleets and optimize grid load distribution for charging stations.
-- Collaborating Departments: Logistics & Supply Chain Management (Fleet Dynamics), Electrical/Electronic Engineering (Power Systems & Charging Firmware), Mathematics & Statistics (Load Forecasting Algorithms), Built & Natural Environment (Urban Zoning Analysis).
+- Collaborating Departments:
+     1. Logistics & Supply Chain Management (Fleet Dynamics),
+     2. Electrical/Electronic Engineering (Power Systems & Charging Firmware),
+     3. Mathematics & Statistics (Load Forecasting Algorithms),
+     4. Built & Natural Environment (Urban Zoning Analysis).
 
 ### Concept 5: Smart Self-Cleaning Public Washroom Facility
 - Project Scope: A modular, high-hygiene public restroom that utilizes automated high-pressure floor washers, UV-C sterilization cycles, and mechanical waste treatment systems triggered by user departure sensors.
-- Collaborating Departments: Civil Engineering (Structural Design & Plumbing Layout), Electrical Engineering (Sensor Arrays, Actuators & PLC Programming), Environmental Science (Bioremediation & Waste Treatment), HTU Business School (Pay-per-use Monetization & Maintenance Economics).
+- Collaborating Departments:
+     1. Civil Engineering (Structural Design & Plumbing Layout),
+     2. Electrical Engineering (Sensor Arrays, Actuators & PLC Programming),
+     3. Environmental Science (Bioremediation & Waste Treatment),
+     4. HTU Business School (Pay-per-use Monetization & Maintenance Economics).
 
 ### Concept 6: Edutainment PC/Mobile Game for Local Financial Literacy
 - Project Scope: An immersive, narrative-driven strategy game designed for the Ghanaian market that teaches wealth management, investment principles, and entrepreneurship through regional business scenarios.
-- Collaborating Departments: Computer Science (Game Engine Architecture), HTU Business School (Financial Models & Economic Rules), Industrial Art (Character Design & Asset Animation), Applied Social Sciences (Behavioral Gamification Design).
+- Collaborating Departments:
+     1. Computer Science (Game Engine Architecture),
+     2. HTU Business School (Financial Models & Economic Rules),
+     3. Industrial Art (Character Design & Asset Animation),
+     4. Applied Social Sciences (Behavioral Gamification Design).
 
 ---
 
