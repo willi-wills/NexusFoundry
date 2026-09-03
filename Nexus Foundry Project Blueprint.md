@@ -119,9 +119,8 @@ The Nexus Foundry intentionally bridges multiple faculties to drive diverse proj
 - School of Graduate Studies (SGS)
 
 **Get the Club Approved (Phase 1)**
-
--Convince the faculty heads
--Get the University to approve the club
+- Convince the faculty heads
+- Get the University to approve the club
 
 **Pilot Departments (Phase 2)**
 
