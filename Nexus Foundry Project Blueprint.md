@@ -27,8 +27,8 @@ The Nexus Foundry is conceived as an elite innovation hub and incubator. It serv
 - Elite Presentation Capabilities: Train members in professional pitch, communication, and demonstration skills.
 - Industry-Grade Portfolios: Ensure every member graduates with a robust, verifiable portfolio of live projects.
 
-### Project Tier Structure
-To systematically scale student capabilities, activities are categorized into three operational tiers:
+### Project Structure and Difficulty Level
+To systematically scale student capabilities, activities are categorized into three operational level:
 
 ┌────────────────────────────────────────────────────────┐  
 │ 1. MINI PROJECTS (Foundational Skill Building)         │  
@@ -38,22 +38,23 @@ To systematically scale student capabilities, activities are categorized into th
 │ 3. COMMERCIAL PROJECTS (Market-Ready Startups)         │  
 └────────────────────────────────────────────────────────┘
 
-- Beginner (Tier 1): Focuses on fundamental software, tool handling, and simple closed-loop systems.
-- Intermediate (Tier 2): Involves multi-system integration, UI/UX design, and functional hardware-software synchronization.
-- Advanced (Tier 3): Full-scale product development, system optimization, business modeling, and market deployment.
+## Difficulty Levels
+- Beginner Level: Focuses on fundamental software, tool handling, and simple closed-loop systems.
+- Intermediate Level: Involves multi-system integration, UI/UX design, and functional hardware-software synchronization.
+- Advanced Level: Full-scale product development, system optimization, business modeling, and market deployment.
 
-### Three Paradiam System (Club Structure)
+### Club Session
 1. Learning Sessions:
-   1. Students are thought base on the programme they are offering.
-   2. Club members are thought industry techniques and practices
+   - Students are thought base on the programme they are offering.
+   - Club members are thought industry techniques and practices
 3. Practicals Sessions
-   i. Club members use their skills in the creation of a product or solve a problem.
+   - Club members use their skills in the creation of a product or solve a problem.
 4. Real World Sessions (Startup Creation)
-   a. This is where club members work on business value projects (These are actual startup projects).
-   b. They learn the importance of team collaboration with other club members from other disciplines.
+   - This is where club members work on business value projects (These are actual startup projects).
+   - They learn the importance of team collaboration with other club members from other disciplines.
 
-### Specialized Development Tracks
-Members align with specific specialization tracks to build deep technical and commercial expertise while working on multidisciplinary projects:
+### Specialized Development Teams
+Members align with specific specialization teams to build deep technical and commercial expertise while working on multidisciplinary projects:
 
 1. Design & Creative
    - UI/UX Design: User interface architecture, wireframing, and user experience mapping.
@@ -69,7 +70,7 @@ Members align with specific specialization tracks to build deep technical and co
 4. Research
    - Technical Documentation: Literature reviews, whitepapers, structural project documentation, and academic research compilation.
 
-5. Core Analytics
+5. Business Development
    - Costing & Estimation: Bill of Materials (BOM) compilation, project budget forecasting, and financial tracking.
    - Business Proposal & Strategy: Investor pitches, market positioning, and commercialization blueprints.
    - Feasibility Analysis: Assessing technical viability, risk mitigation, and market readiness.
@@ -79,14 +80,14 @@ Members align with specific specialization tracks to build deep technical and co
 ## 3. Operational Model & Resources
 
 ### Sustainable Business Model
-- Infrastructure Optimization: Leverage existing on-campus facilities and university resources (e.g., utilizing computers in the Amatrol Lab during off-peak hours upon securing administrative clearance) to minimize initial capital expenditure.
+- Infrastructure Optimization: Leverage existing on-campus facilities and university resources (FAB Lab, Amatrol Lab, Mechanical Lab, Civil Engineering Lab, Woodworking Lab, Welding Lab, Star-C Lab)
 - Internal Resource Reinvestment: Funnel the collective technical expertise and intellectual property developed within the foundry directly into the growth of its spin-off commercial startups.
 
-### Lab Funding Architecture
+### Club Funding Architecture
 
 #### Primary Funding
 - **Founders Contributions**: 
-- **Member Contributions**: Internal seed dues and membership subscriptions.
+- **Member Contributions**: Internal seed dues and membership subscriptions (If needed be).
 - **Hackathons & Competitions**: Prize capital secured from local and international innovation grants.
 
 #### Secondary Funding
@@ -118,20 +119,28 @@ The Nexus Foundry intentionally bridges multiple faculties to drive diverse proj
 - School of Graduate Studies (SGS)
 
 **Get the Club Approved (Phase 1)**
+
 -Convince the faculty heads
 -Get the University to approve the club
 
-**Pilot Departments (Phase 1)**
+**Pilot Departments (Phase 2)**
+
+Recrut Students To Join The Club From the following pilot departments
 - Electrical / Electronic Engineering
 - Computer Science
 - Mechanical Engineering
 - Mathematics & Statistics
 - Accounting and Finance
 
-**Recrut Students To Join The Club**
+**Commence Learning and Practical Sessions (Phase 3)**
 
+**Build workable prototypes (Phase 4)**
 
-**Expansion Departments (Phase 2)**
+**Launch 4 Viable Startups (Phase 5)**
+
+**Secure funding for building the Lab (Phase 6)**
+
+**Expansion Departments (Phase 7)**
 - Marketing
 - Logistics & Supply Chain Management
 - Industrial Art
@@ -142,7 +151,6 @@ The Nexus Foundry intentionally bridges multiple faculties to drive diverse proj
 
 ### Synergistic Campus Ecosystem
 - Existing Club Alliances: Axl8, Plan Ghana
-- On-Campus Fabrication Facilities: FAB Lab, Amatrol Lab, Mechanical Lab, Civil Engineering Lab, Woodworking Lab, Welding Lab, Star-Center.
 - Off-Campus Operations: Field trips, and site visitations.
 
 ### Technology Stack & Software Suites
@@ -154,9 +162,10 @@ The Nexus Foundry intentionally bridges multiple faculties to drive diverse proj
 
 ---
 
-## 5. Multidisciplinary Project Prototypes
+## 5. Example of Multidisciplinary Projects 
 
 The following concepts demonstrate how the Foundry breaks down departmental silos to build high-impact products.
+Based on the decipline of the student and the project begin worked upon, the student can choose the project to belong.
 
 ### Concept 1: 2D Tie-and-Dye Textile Printer
 - Project Scope: Designing and building an automated, CNC-style 2D printer tailored to apply wax or dye directly onto fabrics using custom vector paths.
@@ -211,11 +220,11 @@ The following concepts demonstrate how the Foundry breaks down departmental silo
 
 **Founders**
 - Alvin Lawson Amenyedzi
-- Welson Venunye
+- Welson Avasi Venunye
 
 **Core Executive Team**
 - Alvin Lawson Amenyedzi
-- Welson Venunye
+- Welson Avasi Venunye
 - Judith Adom A. Commey
 
 **Advisory & Patronage Team**
